@@ -1,4 +1,4 @@
-**lang_id_document folder details**
+## **lang_id_document folder details**
 
 1. This folder contains the code for language identification in documents and the scientific report for the paper titled "Scientific Review: Recursive Deep Models for Semantic Compositionality
 Over a Sentiment Treebank".
