@@ -1,0 +1,10 @@
+pip install fitz
+pip install pymupdf
+pip install pdfminer.six 
+pip install langid
+pip install langdetect
+pip install nltk
+pip install spacy
+pip install pdf2image
+sudo apt-get install poppler-utils
+sudo apt install tesseract-ocr
