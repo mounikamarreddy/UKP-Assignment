@@ -17,6 +17,13 @@ Over a Sentiment Treebank".
      - langid
      - Interfaces such as ChatGPT, Mistral AI etc.,
 
-6. **The code related to language identification is in the folder "language_detection".**
+6. **The code related to language identification is in the folder "language_detection".** To run the code
+   ```bash
+   python language_detection.py InputPDF.pdf file nltk
+   ```
+
+   ```bash
+   python language_detection.py "hellow, how are you!" string spacy
+   ```
 
 
