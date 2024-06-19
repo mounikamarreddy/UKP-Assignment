@@ -4,7 +4,7 @@
    - Code for language identification: language_detection
    - The scientific report for the paper titled "Scientific Review: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank".
 
-**The scientific review is in the attached document "SentimentTreeBank_ScientificReview.PDF".**
+**The scientific review is in the attached document "20240523215623_MarreddyMounika_ScientificReview.pdf".**
 
 **Code for language identification**
 
