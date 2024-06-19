@@ -16,5 +16,5 @@ Over a Sentiment Treebank".
      d. langid
      e. Interfaces such as ChatGPT, Mistral AI etc.,
 
-5. ** The code related to language identification is in the attached Google colab notebook "".**
+5. **The code related to language identification is in the attached Google colab notebook "".**
 
